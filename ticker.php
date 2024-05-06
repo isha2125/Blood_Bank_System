@@ -53,8 +53,8 @@
 </style>
 </head>
 <body>
-<div class="news blue">
-<span style="background-color:#F60F0F;width:125px;height:50px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in Hisar By Varun in collabration with Blood Bank& Donation Management System on <b>01/09/2020 at Community Centre PLA.</b> Come and Be a Part of this Noble Cause :) </marquee></span>
+<div class="news" style="background-color: #000">
+<span style="background-color:#c41717;width:125px;height:50px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in Chengalpattu By Aditya in collabration with Blood Bank& Donation Management System at Community Centre.</b> Come and Be a Part of this Noble Cause :) </marquee></span>
 </div>
 </body>
 </head>

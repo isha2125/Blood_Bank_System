@@ -60,7 +60,7 @@ include('head.php'); ?>
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white" >The need for blood</h4>
+                    <h4 class="card-header card text-white" style="background-color: black;" >The need for blood</h4>
 
                         <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                           <?php
@@ -79,7 +79,8 @@ include('head.php'); ?>
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white">Blood Tips</h4>
+                    <h4 class="card-header card text-white" style="background-color: black;">Blood Tips</h4>
+
 
                     <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                       <?php
@@ -99,7 +100,7 @@ include('head.php'); ?>
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white" >Who you could Help</h4>
+                    <h4 class="card-header card text-white" style="background-color: black;">Who you could Help</h4>
 
                     <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                       <?php

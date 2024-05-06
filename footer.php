@@ -17,7 +17,7 @@
 <body>
   <div id="footer" >
   <b><center>COPYRIGHT © 2024<br>
-  Blood Bank & Donation Management
+  Blood Bank Management
   <br>
   ALL RIGHTS RESERVED.
   </center>

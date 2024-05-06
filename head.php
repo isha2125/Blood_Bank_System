@@ -7,11 +7,11 @@
 
 .header {
   overflow:hidden;
-  background-color: #333;
+  background-color: #e2b07b;
   top: 0;
   width:100%;
   padding: 10px 5px;
-  color:#FF0404  ;
+  color:#d52222  ;
 }
 
 /* Style the header links */
@@ -31,12 +31,12 @@
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
-  color:#FF0404  ;
+  color:#d52222   ;
 }
 
 /* Change the background color on mouse-over */
 .header a:hover {
-  background-color: #ddd;
+  /* background-color: #ddd; */
   color: black;
 }
 
@@ -61,8 +61,8 @@
 }
 /* Style the active/current link*/
 a.act{
-background: linear-gradient(to right, #fd746c 0%, #ff9068 100%);
-color: white;
+/* background: linear-gradient(to right, #fd746c 0%, #ff9068 100%); */
+color: black;
 border-radius:30px;
 }
 a.logo2{
@@ -73,7 +73,7 @@ a.logo2{
 
 <body>
   <div class="header">
-    <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>Blood Bank & Donation </a>
+    <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>Blood Bank Management</a>
     <div class="header-right">
     <a href="about_us.php"  <?php if($active=='about') echo "class='act'"; ?> >About Us</a>
     <a href="why_donate_blood.php"  <?php if($active=='why') echo "class='act'"; ?>>Why Donate Blood</a>
