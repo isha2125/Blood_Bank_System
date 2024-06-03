@@ -10,5 +10,5 @@ The system facilitates seamless donor registration, real-time inventory tracking
 # Technologies
 1. HTML, CSS & JavaScript
 2. PHP and MySQL
-3. Azure Health Bot
+
 
